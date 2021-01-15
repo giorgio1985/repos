@@ -173,5 +173,4 @@ This project would not be possible without the support of these amazing folks. [
 
 ## License
 
-This project is licensed under the MIT license, Copyright (c) 2019 Maximilian
-Stoiber. For more information see `LICENSE.md`.
+This project is licensed under the MIT license, Copyright (c) 2019 Giorgio A. For more information see `LICENSE.md`.

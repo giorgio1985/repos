@@ -89,7 +89,7 @@ export default function HomePage() {
             <FormattedMessage {...messages.trymeHeader} />
           </H2>
           <Form onSubmit={onSubmitForm}>
-            <label htmlFor="username">
+            <label htmlFor="username"> 
               <FormattedMessage {...messages.trymeMessage} />
               <AtPrefix>
                 <FormattedMessage {...messages.trymeAtPrefix} />
